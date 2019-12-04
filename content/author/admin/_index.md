@@ -73,6 +73,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a final year CS undergraduate at the Indian Institute of Technology Roorkee. I am broadly in Deep Learning, with applications in Computer Vision and Natural Language Processing.
+I am a final year CS undergraduate at the Indian Institute of Technology Roorkee. I am broadly in Deep Learning, with applications in Computer Vision and Natural Language Processing. At IIT Roorkee, I co-lead a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io).
 
-At IIT Roorkee, I co-lead a Deep Learning-centric discussion group, the [Vision and Language Group](https://vlgiitr.github.io). I am also working with the [Visual Computing Group](http://vcg.seas.harvard.edu/) at Harvard University on Large-Scale Mitochondria Segmentation. Prior to this, I worked on HDR image fusion with the [Video Analytics Lab](http://val.serc.iisc.ernet.in/) at IISc Bangalore. I also collaborated with Prof. Marco Pedersoli and Professor Jose Dolz in the summer of 2018, working on group-level emotion recognition in images.
+Since May 2019, I have been working with the [Visual Computing Group](http://vcg.seas.harvard.edu/) at Harvard University on Large-Scale Mitochondria Segmentation, as a part of the [Connectomics Project](https://vcg.seas.harvard.edu/projects). Prior to this, I worked on HDR image fusion with the [Video Analytics Lab](http://val.serc.iisc.ernet.in/) at IISc Bangalore. I also collaborated with [Prof. Marco Pedersoli](http://profs.etsmtl.ca/mpedersoli/) and [Professor Jose Dolz](https://josedolz.github.io/) in the summer of 2018, working on group-level emotion recognition in images.
